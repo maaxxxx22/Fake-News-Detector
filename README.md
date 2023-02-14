@@ -1,4 +1,4 @@
-Capstone Project Fake News Detector
+# Capstone Project Fake News Detector
 
 This Project was built and run using Amazon Sage maker.
 The folder "data" contains the downloaded data files from Kaggle: https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
