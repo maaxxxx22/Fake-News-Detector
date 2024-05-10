@@ -43,7 +43,7 @@ To replicate the project or experiment with different approaches, follow these s
 
 ## Contributors
 
-- Okunta Braide (https://github.com/yourusername)
+- Okunta Braide (https://github.com/maaxxxx22)
 
 
 ## License
